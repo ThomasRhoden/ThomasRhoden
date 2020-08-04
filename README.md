@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, seja bem-vindo ao meu README 👋
 
-<!--
-**ThomasRhoden/ThomasRhoden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Meu nome é Thomas Rhoden Gonçalves, sou um estudante de informática, atualmente cursando ensino técnico e cursos de linguagens de programação.<br/>
+  Tecnologia é a minha paixão.<br/>
+  Estou atualmente trabalhando em um projeto de gestão empresarial independente.<br/>
+  <ul>Para entrar em contato comigo siga:
+  <li>Instagram: @thomasrhoden</li>
+  <li>E-mail: rhodenthomas@gmail.com</li>
+  <li>WhatsApp: (51)991601005</li>
+  <li>LinkedIn: https://www.linkedin.com/in/thomas-rhoden/</li>
+  </ul>
+  
+  Estou à disposição para integrar projetos, me convide! 😄
